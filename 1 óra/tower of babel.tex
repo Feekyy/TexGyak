@@ -1,0 +1,17 @@
+\documentclass{article}
+
+\usepackage[english,magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{blindtext}
+
+\begin{document}
+\frenchspacing{\hulipsum[1]}\\
+
+\selectlanguage{latin}{\lipsum[1]}\\
+
+\noindent
+\selectlanguage{magyar}{\today}
+\\\selectlanguage{english}{\today}
+\end{document}

@@ -1,0 +1,16 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{blindtext}
+\usepackage{graphicx}
+
+\begin{document}
+\linespread{1.6}{\hulipsum[1]}\\
+
+\raggedleft{\hulipsum[2]}
+
+\scalebox{0.5}[-1.5]{\parbox{5cm}{\lipsum[1]}}
+\end{document}
