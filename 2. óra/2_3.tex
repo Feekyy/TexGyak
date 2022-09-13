@@ -1,0 +1,57 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{hulipsum}
+\usepackage{lipsum}
+
+\title{Van füved?}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+\texttt{\lipsum[3-4]}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnote{mindenki *****}
+\end{abstract}
+\setcounter{secnumdepth}{10}
+\setcounter{tocdepth}{10}
+\renewcommand{\contentsname}{MI FOLYIK ITT GYÖNGYÖSÖN!?}
+\pagenumbering{Roman}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+\section{Kábszi}
+\subsection{zagyva 1}
+\hulipsum[3]
+\subsection{dafaq}
+\hulipsum[4]
+\subsubsection{NOPE}
+\hulipsum[1]
+\section[ptsd]{post traumatic stress disorder}
+\subsection{my freind is real}
+\subsubsection{worms in da wall}
+\paragraph{1}
+\subparagraph{2}
+\hulipsum[2]
+\quote
+\lipsum[5-6]
+\quotation
+\hulipsum[6-7]
+\tableofcontents
+\appendix
+\section{első}
+\section{második}
+\subsection{aleslő}
+\subsection{almásodik}
+\begin{verse}
+a
+ds
+asdasdasfd
+\newline
+
+asdasdas
+a
+sdasfda
+\end{verse}
+\end{document}

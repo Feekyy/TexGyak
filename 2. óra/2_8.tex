@@ -1,0 +1,75 @@
+\documentclass[twoside]{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{hulipsum}
+\usepackage{lipsum}
+\usepackage{geometry}
+\geometry{inner=3cm,outer=5cm}
+\geometry{bindingoffset=1cm}
+
+\title{Van füved?}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+\texttt{\lipsum[3-4]}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnote{mindenki *****}
+\end{abstract}
+\ref{asd1}
+\ref{asd2}
+\ref{asd3}
+\setcounter{secnumdepth}{10}
+\setcounter{tocdepth}{10}
+\renewcommand{\contentsname}{MI FOLYIK ITT GYÖNGYÖSÖN!?}
+\pagenumbering{Roman}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+\section{Kábszi}
+\subsection{zagyva 1}
+\hulipsum[3]
+\subsection{dafaq}
+\hulipsum[4]
+\label{asd1}
+\subsubsection{NOPE}
+\hulipsum[1]
+\marginparwidth 3cm
+\marginparsep 0.5cm
+Azt a leborult mindenségit má' neki!\marginpar{HŰŰŰŰŰHA}
+\section[ptsd]{post traumatic stress disorder}
+\subsection{my freind is real}
+\subsubsection{worms in da wall}
+\label{asd2}
+\paragraph{1}
+\subparagraph{2}
+\marginparwidth 3cm
+\marginparsep 0.5cm
+Azt a leborult mindenségit má' neki!\marginpar{HŰŰŰŰŰHA}
+\hulipsum[2]
+\quote
+\lipsum[5-6]
+\quotation
+\hulipsum[6-7]
+\tableofcontents
+\label{asd3}
+\appendix
+\section{első}
+\section{második}
+\subsection{aleslő}
+\subsection{almásodik}
+\begin{verse}
+a
+ds
+asdasdasfd
+\newline
+
+asdasdas
+a
+sdasfda
+\end{verse}
+\ref{asd1}
+\ref{asd2}
+\ref{asd3}
+\end{document}

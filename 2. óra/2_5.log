@@ -1,0 +1,2955 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  13 SEP 2022 13:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./2_5.tex
+(2_5.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30>
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/08/29 3.79 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar.l
+df
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count195
+\c@footnote@ch=\count196
+))
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babel-
+magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/hulipsum\hulipsum.sty
+Package: hulipsum 2020/11/03 v1.1 Hungarian dummy text (Lorum ipse)
+\c@hulipsum@count=\count197
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3ke
+ys2e.sty
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-08-30 L3 programming layer (loader) 
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count199
+\l__lipsum_a_int=\count266
+\l__lipsum_b_int=\count267
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks17
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(2_5.aux)
+\openout1 = `2_5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 358.22021pt, 142.26378pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=358.22021pt
+* \textheight=556.47656pt
+* \oddsidemargin=41.54102pt
+* \evensidemargin=13.08827pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=142.26378pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+7.
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\T1/cmtt/m/n/10 Nulla malesuada
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 porttitor diam.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 Donec felis erat,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 congue non, volutpat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 at, tincidunt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 tristique, libero.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 Vivamus viverra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 fermentum felis.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 Donec nonummy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 pellentesque ante.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 Phasellus adipiscing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 semper elit. Proin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 fermentum massa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 ac quam. Sed diam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 turpis, molestie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 vitae, placerat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 a, molestie nec,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 leo. Maecenas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 lacinia. Nam ipsum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 ligula, eleifend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 at, accumsan nec,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 suscipit a, ipsum.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 Morbi blandit ligula
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 feugiat magna. Nunc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 eleifend consequat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 lorem. Sed lacinia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 nulla vitae enim.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 Pellentesque
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 tincidunt purus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 vel magna. Integer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 non enim. Praesent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 euismod nunc eu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 purus. Donec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 bibendum quam in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 tellus. Nullam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 cursus pulvinar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 lectus. Donec
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 et mi. Nam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 vulputate metus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 eu enim. Vestibulum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmtt/m/n/10 pellentesque felis
+ []
+
+
+Underfull \vbox (badness 4859) has occurred while \output is active []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+[]\T1/cmtt/m/n/10 Quisque
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 ullamcorper
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 placerat ipsum.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Cras nibh. Morbi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 vel justo vitae
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 lacus tincidunt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 ultrices. Lorem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 ipsum dolor sit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 amet, consectetuer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 adipiscing elit.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 In hac habitasse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 platea dictumst.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Integer tempus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 convallis augue.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Etiam facilisis.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Nunc elementum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 fermentum wisi.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Aenean placerat.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Ut imperdiet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 enim sed gravida
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 sollicitudin, felis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 odio placerat quam,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 ac pulvinar elit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 purus eget enim.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Nunc vitae tortor.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Proin tempus nibh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 sit amet nisl.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 Vivamus quis tortor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+\T1/cmtt/m/n/10 vitae risus porta
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/Diak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\T1/cmr/bx/n/14.4 MI FO-LYIK
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/cmr/bx/n/14.4 ITT GYÖN-
+ []
+
+(2_5.toc
+Overfull \hbox (6.38275pt too wide) in paragraph at lines 4--4
+ [][] []\T1/cmr/m/n/10 NOPE []  
+ []
+
+
+Overfull \hbox (15.6305pt too wide) in paragraph at lines 7--7
+ [][] []\T1/cmr/m/n/10 worms 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+ \T1/cmr/m/n/10 in 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+ \T1/cmr/m/n/10 da 
+ []
+
+
+Overfull \hbox (23.48975pt too wide) in paragraph at lines 8--8
+ [][] []\T1/cmr/m/n/10 1 []  
+ []
+
+
+Overfull \hbox (62.48018pt too wide) in paragraph at lines 9--9
+ [][] []\T1/cmr/m/n/10 2 []  
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `2_5.toc'.
+
+ [2
+
+]
+Underfull \hbox (badness 1303) in paragraph at lines 30--31
+\T1/cmr/m/n/10 Az üt-les ön-cé-je ese-tén
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 30--31
+\T1/cmr/m/n/10 báj-da-la-nak el, ha for-
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 32--33
+\T1/cmr/m/n/10 vagy olyan spás-ból je-
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 32--33
+\T1/cmr/m/n/10 gyen a gya-ro-kok edé-
+ []
+
+
+Underfull \hbox (badness 2165) in paragraph at lines 32--33
+\T1/cmr/m/n/10 re, a szá-lyo-gák fa-rog-
+ []
+
+
+Underfull \vbox (badness 3449) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 34--38
+\T1/cmr/m/n/10 Lórum ip-se olyan bor-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 34--38
+\T1/cmr/m/n/10 zasz-tó-an co-gá-lis pa-tás,
+ []
+
+
+Underfull \hbox (badness 2790) in paragraph at lines 34--38
+\T1/cmr/m/n/10 ami fo-gás nél-kül nem
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 34--38
+\T1/cmr/m/n/10 ma-tos fe-ro-di-ka, amely-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 34--38
+\T1/cmr/m/n/10 iz-mát, a por-nát, va-la-
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 34--38
+\T1/cmr/m/n/10 dal-ma-kan ér-vést. Az
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]\T1/cmr/bx/n/14.4 post trau-
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 40--40
+[]\T1/cmr/bx/n/10 worms in da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+ \T1/cmr/bx/n/10 2.1.1.1.1. 2[] \T1/cmr/m/n/10 Azt
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 45--47
+\T1/cmr/m/n/10 a le-bo-rult min-den-sé-git
+ []
+
+
+Underfull \hbox (badness 1810) in paragraph at lines 45--47
+\T1/cmr/m/n/10 má' ne-ki! A vez-vet-
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 45--47
+\T1/cmr/m/n/10 ben éven-te több mint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 en-ség gé-szet reg-net®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 em-tes-ke-dés szom-bó-dik,
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 45--47
+\T1/cmr/m/n/10 en-nek leg-alább a 90
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 to-ru-ma boj-tos vol-na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 le-l®-lés ehe-lyett vég-z®
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 45--47
+\T1/cmr/m/n/10 vi-dem és ko-zá-sok-ban,
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 45--47
+\T1/cmr/m/n/10 gaz-sá-gos mo-hos föl-csö-
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 45--47
+\T1/cmr/m/n/10 kön aro-sít a fa-vá-já-ra.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 din-gos em-tes-ke-dés-nek
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 es-hent, ér-zeg (vagy-is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 vo-lás) so-rán vi-szont
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+\T1/cmr/m/n/10 eren lanyós-hoz mint-
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 45--47
+\T1/cmr/m/n/10 egy szö-vel köb-mé-ter-nyi
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 45--47
+\T1/cmr/m/n/10 ra-dó-cot kell zsib-ál-nia,
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 45--47
+\T1/cmr/m/n/10 köny-ve-dést ned-nie, fel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/cmr/m/n/10 Fusce mau-ris.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Ve-sti-bu-lum
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 49--49
+\T1/cmr/m/n/10 lec-tus. Sed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 bi-ben-dum,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 sem-per, leo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 ve-lit ul-tri-cies
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tel-lus, ac ve-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 ne-na-tis arcu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 wisi vel nisl.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Ve-sti-bu-lum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 pel-len-tes-que,
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 49--49
+\T1/cmr/m/n/10 git-tis po-suere,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tur-pis la-cus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 con-gue quam,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 in hen-dre-rit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 eget erat in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 sa-pien mat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tis port-ti-tor.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Ve-sti-bu-lum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 port-ti-tor.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Nulla fa-ci-lisi.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 frin-gilla, wisi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 in di-gnis-sim
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 lec-tus sa-git-tis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tem-por li-gula
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 49--49
+\T1/cmr/m/n/10 ma-gna. Cras
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 49--49
+\T1/cmr/m/n/10 nulla. Nulla
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 49--49
+\T1/cmr/m/n/10 ege-stas. Cu-
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 49--49
+\T1/cmr/m/n/10 ra-bi-tur a leo.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Quis-que ege-
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 49--49
+\T1/cmr/m/n/10 stas wisi eget
+ []
+
+
+Underfull \hbox (badness 3312) in paragraph at lines 49--49
+\T1/cmr/m/n/10 giat la-cus vel
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\T1/cmr/m/n/10 Suspendisse
+ []
+
+
+Underfull \hbox (badness 1603) in paragraph at lines 49--49
+\T1/cmr/m/n/10 vel fe-lis. Ut
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 lo-rem lo-rem,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 in-ter-dum eu,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tin-ci-dunt sit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 amet, lao-reet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 nean fau-ci-bus
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 49--49
+\T1/cmr/m/n/10 pede eu ante.
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Prae-sent enim
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 mo-le-stie non,
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 49--49
+\T1/cmr/m/n/10 no-nummy vel,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 eros, ma-le-
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 49--49
+\T1/cmr/m/n/10 fer-men-tum eu,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 que ve-hi-cula,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 urna sed ul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tri-cies auc-tor,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 pede lo-rem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 con-val-lis elit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Do-nec luc-tus.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 Cu-ra-bi-tur et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 do-lor odio,
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 49--49
+\T1/cmr/m/n/10 com-modo pre-
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 49--49
+\T1/cmr/m/n/10 tium, ul-tri-cies
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 49--49
+\T1/cmr/m/n/10 non, pha-re-tra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\T1/cmr/m/n/10 no-nummy in,
+ []
+
+
+Underfull \hbox (badness 7888) in paragraph at lines 49--49
+\T1/cmr/m/n/10 ci-bus, ege-stas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\T1/cmr/m/n/10 E
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 haj-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ci-h®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 let-ke-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 re a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 te-z®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zált
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 anya-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tos
+ []
+
+
+Overfull \hbox (1.07129pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 is-ság
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ál-tal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hos-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kony
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ,,csa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 adás
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zöl-di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 pó-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 rék
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sé-tál.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 Egy
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 50--50
+\T1/cmr/m/n/10 a jö-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ve-t®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 vé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 gén
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 164
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 te-rek
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 koz-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 meg
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 fu-ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 dást,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 mat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kör-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 pes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tik
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sze-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 rint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 osz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 koz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 to-sak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ké-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ben
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 je-tes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 és
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 cser-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ba-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nik,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 g®k,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 len-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 csés
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 és
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sze-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ges
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 h¶t-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 le-tek,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 íbi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szek
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 te-re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kei,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 eme-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nek,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nok,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 anya-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 pár-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 gya-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kok,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 anya-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zi-mik
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 vonk
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 és a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 li-ka
+ []
+
+
+Overfull \hbox (1.84888pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 bolta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ga-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nak
+ []
+
+
+Overfull \hbox (0.73804pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyuk-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szai
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 vol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tak.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 Tíz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kör-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 pes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ti-b®l
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 bu-cig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 fok-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ság-ra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lett
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ság
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ri-ke
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 bu-ca
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kál-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kod-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nia.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 mat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 et-let-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 re a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 to-sak
+ []
+
+
+Overfull \hbox (9.12488pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kb. szu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ve-lés
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hö-rö-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 köd-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 te
+ []
+
+
+Overfull \hbox (1.40454pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 vissza
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ped-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 gét,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 il-let-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ve
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hú-za-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nás
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ve-g®-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ben
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 rá-gí-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 fok-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sá-go-
+ []
+
+
+Overfull \hbox (0.73804pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyuk-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szok
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kö-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zött
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 is,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ped-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nes-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sé-gek
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 f¶-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 té-se
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 en-nél
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 jó-val
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 vá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 rás,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sze-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 re-di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zat.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ta-lan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 szá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 mok
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ban-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 órá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ba
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 trá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 csa-li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tá-sa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 pe-dig
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 az
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 volt,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 gy¶-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 r¶-jük
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sze-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 rint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tát
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 l®d-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 jék,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 il-let-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 le-het,
+ []
+
+
+Overfull \hbox (6.87543pt too wide) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ramba-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lat-ba
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 hu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyít-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tá-val.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 rem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 esz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 bé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 zás
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 iza-ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ször-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 vér-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ked-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 te,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 let-ve
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 bing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lész-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ki
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 kor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 sát
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 ez-zel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 tron-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 nyal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 fe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\T1/cmr/m/n/10 lens-
+ []
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Overfull \hbox (2.95972pt too wide) in paragraph at lines 50--51
+[]\T1/cmr/m/n/10 Az
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 itt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 képí-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 t®k
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 kék-os
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ta-lán
+ []
+
+
+Overfull \hbox (1.09906pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10 kesér-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 mé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 lyi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 nek
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 bo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 hor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 té-kot
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 csa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 pol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 nak.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 pon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 got
+ []
+
+
+Overfull \hbox (1.07129pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10 masz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 li-zál,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 hogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 vá-ros
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 vol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ka,
+ []
+
+
+Overfull \hbox (2.95972pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10 nyom-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 lán
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 vább
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 fa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 rant-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 sa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ezt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 dalt.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 Vol-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ka
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 lírt,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 rég
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 lo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 zott,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 tól
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 hi-ús
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 vagy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ci-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 tal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 be-li
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ál-lott
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 dug-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ló-it,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 száló
+ []
+
+
+Overfull \hbox (5.1814pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10 könyv-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 e-re-it
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 irt-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 oroz-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ván
+ []
+
+
+Overfull \hbox (3.23743pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10 mány-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 la a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ga-lan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 bar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 zás,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ka-tás
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 bar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 to-zás
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 er-lé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ke-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 zés-re,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 il-let-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ve
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 hal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ol-ják
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 kü-l®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ih-le-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 get.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 A
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 kü-l®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 bu-lás
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 já-val
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 med-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 d®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 borc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 sa-vít-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 hat-ja
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 be-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 gyen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 pal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 mány
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 mat-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ká-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 mát!
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 Hin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 de-cer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 3-án,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ka-zá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 log-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 lá-son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 te-len
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ga-lá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 sok
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 zá-so-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 kon,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ódá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 so-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 kon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 jö-vél
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 szel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 lék
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 csú-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 zás-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ba.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 Grát
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 mig-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ne-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 zés-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 fe-d®
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 ta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 rá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 gyó-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\T1/cmr/m/n/10 na
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]\T1/cmr/bx/n/14.4 MI
+ []
+
+
+Overfull \hbox (2.70326pt too wide) in paragraph at lines 51--51
+\T1/cmr/bx/n/14.4 FO-
+ []
+
+
+Overfull \hbox (14.39388pt too wide) in paragraph at lines 51--51
+\T1/cmr/bx/n/14.4 LYIK
+ []
+
+
+Overfull \hbox (3.87631pt too wide) in paragraph at lines 51--51
+\T1/cmr/bx/n/14.4 ITT
+ []
+
+
+Overfull \hbox (29.97406pt too wide) in paragraph at lines 51--51
+\T1/cmr/bx/n/14.4 GYÖN-
+ []
+
+
+Overfull \hbox (17.59364pt too wide) in paragraph at lines 51--51
+\T1/cmr/bx/n/14.4 GYÖ-
+ []
+
+
+Overfull \hbox (21.3944pt too wide) in paragraph at lines 51--51
+\T1/cmr/bx/n/14.4 SÖN!? 
+ []
+
+(2_5.toc)
+\tf@toc=\write4
+\openout4 = `2_5.toc'.
+
+
+Overfull \hbox (26.05794pt too wide) in paragraph at lines 53--53
+[]\T1/cmr/bx/n/14.4 els® 
+ []
+
+
+Overfull \hbox (56.86945pt too wide) in paragraph at lines 54--54
+[]\T1/cmr/bx/n/14.4 második 
+ []
+
+
+Overfull \hbox (38.90091pt too wide) in paragraph at lines 55--55
+[]\T1/cmr/bx/n/12 alesl® 
+ []
+
+
+Overfull \hbox (65.5472pt too wide) in paragraph at lines 56--56
+[]\T1/cmr/bx/n/12 almásodik 
+ []
+
+
+Overfull \hbox (13.42178pt too wide) in paragraph at lines 58--58
+[]
+ []
+
+
+Overfull \hbox (33.4169pt too wide) in paragraph at lines 58--58
+\T1/cmr/m/n/10 a 
+ []
+
+
+Underfull \vbox (badness 6559) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (22.91946pt too wide) in paragraph at lines 59--59
+[]\T1/cmr/m/n/10 ds 
+ []
+
+
+Overfull \hbox (59.96597pt too wide) in paragraph at lines 60--61
+[]\T1/cmr/m/n/10 asdasdasfd 
+ []
+
+
+Overfull \hbox (51.35696pt too wide) in paragraph at lines 62--62
+[]\T1/cmr/m/n/10 asdasdas 
+ []
+
+
+Overfull \hbox (18.42056pt too wide) in paragraph at lines 63--63
+[]\T1/cmr/m/n/10 a 
+ []
+
+
+Overfull \hbox (45.46951pt too wide) in paragraph at lines 64--65
+[]\T1/cmr/m/n/10 sdasfda 
+ []
+
+[8
+
+] (2_5.aux) ) 
+Here is how much of TeX's memory you used:
+ 3712 strings out of 475389
+ 70470 string characters out of 2777472
+ 680845 words of memory out of 3000000
+ 25083 multiletter control sequences out of 15000+600000
+ 480675 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,8n,77p,1866b,379s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx1200.pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecrm0800.pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
+appen/ec/dpi600\tcrm0600.pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\Diak\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Diak\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\Diak\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Diak\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Diak\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on 2_5.pdf (10 pages, 99297 bytes).
+PDF statistics:
+ 315 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

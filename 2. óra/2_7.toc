@@ -1,0 +1,13 @@
+\select@language {magyar} \contentsline {section}{\numberline {1}Kábszi}{III}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {1.1}zagyva 1}{III}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {1.2}dafaq}{III}{}%
+\select@language {magyar} \contentsline {subsubsection}{\numberline {1.2.1}NOPE}{III}{}%
+\select@language {magyar} \contentsline {section}{\numberline {2}ptsd}{IV}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {2.1}my freind is real}{IV}{}%
+\select@language {magyar} \contentsline {subsubsection}{\numberline {2.1.1}worms in da wall}{IV}{}%
+\select@language {magyar} \contentsline {paragraph}{\numberline {2.1.1.1}1}{IV}{}%
+\select@language {magyar} \contentsline {subparagraph}{\numberline {2.1.1.1.1}2}{IV}{}%
+\select@language {magyar} \contentsline {section}{\numberline {A}első}{VI}{}%
+\select@language {magyar} \contentsline {section}{\numberline {B}második}{VI}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {B.1}aleslő}{VI}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {B.2}almásodik}{VI}{}%
