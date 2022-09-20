@@ -1,0 +1,52 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{enumitem}
+\usepackage{hulipsum}
+
+\newlist{enuma}{enumerate}{5}
+\setlist[enuma]{label=(\alph*)}
+
+\begin{document}
+\begin{enumerate}[label=(\arabic*)]
+\item NEIN
+\begin{enumerate}[label=(\arabic*)]
+\item nope
+\begin{enumerate}[label=(\arabic*)]
+\item just NOOOOOO
+\begin{enumerate}[label=(\arabic*)]
+\item valami
+\end{enumerate}
+\item ja
+\end{enumerate}
+\item[!] yes
+\end{enumerate}
+\item igen
+\end{enumerate}
+
+\hulipsum[1]
+
+\begin{enuma}
+\item asd
+\begin{enuma}
+\item asd2
+\begin{enuma}
+\item asd3
+\begin{enuma}
+\item asd 4
+\begin{enuma}
+\item another one!
+\end{enuma}
+\end{enuma}
+\end{enuma}
+\end{enuma}
+\end{enuma}
+
+\hulipsum[2]
+
+\begin{enumerate}[resume]
+\item KETTŐ
+\end{enumerate}
+
+\end{document}
