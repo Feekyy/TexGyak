@@ -1,0 +1,31 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+
+\newfloat{psz}{hbt}{psz}
+\floatname{psz}{Algoritmus}
+
+\begin{document}
+\begin{psz}\caption{Gyorsrendezés}
+\begin{algorithmic}
+\Procedure{quicksort}{@A,a,b}
+\Require: A írható tömb
+\Require: 1 $\leq$ a $\leq$ b $\leq$ Hossz[A] indexek
+\Ensure: a-b indextartományt rendezzük
+\If{a=b}
+\State \Return A
+\Else
+\State \Call{feloszt}{@A,a,b,A(a),@q}
+\State \Call{quicksort}{@A,a,q}
+\State \Call{quicksort}{@A,a+1,b}
+\State \Return A
+\EndIf
+\EndProcedure
+\end{algorithmic}
+\end{psz}
+\end{document}

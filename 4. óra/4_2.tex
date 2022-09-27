@@ -1,0 +1,37 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{hulipsum}
+\usepackage{graphicx}
+\usepackage{float}
+
+\title{OTTASZÖRNY}
+
+\newtheorem{tet}{DEAD}
+\newfloat{forras}{hbt}{for}
+\floatname{forras}{Forráskód}
+
+\begin{document}
+\maketitle
+\listof{forras}{MINDEN}
+\verb|ŰŰ|\hulipsum[1]\verb|Ű|
+\begin{forras}
+\begin{verbatim}
+\begin{itemize}
+\item one
+\item punch
+\end{itemize}
+\end{verbatim}
+\caption{ez a felirat}
+\end{forras}
+\hulipsum[1]
+\begin{forras}
+\begin{verbatim}
+\begin{tet}
+semmi!
+\end{tet}
+\end{verbatim}
+\caption{pray for salvation}
+\end{forras}
+\end{document}
