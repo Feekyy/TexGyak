@@ -1,0 +1,31 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{xcolor}
+
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+
+\begin{document}
+a, Legyen \[[n]:={1,2...,n}\]
+a természetes számok halmaza 1-től n-ig.
+\\b, Egy n-edrendű \textit{permutáció} $\sigma$ egy bijekció [n]-ből [n]-be. Az n-edrendű permutációk halmazát, az ún. szimmetrikus csoportot, $S_{n}$-nel jelöljük.
+\\c, Egy $\sigma\in S_n$ permutációban inverziónak nevezünk egy (i,j) párt, ha i < j de $\sigma_{i} > \sigma_{j}$.
+\\d, Egy $\sigma\in S_n$ permutáció paritásának az inverziók számát nevezzük: \[\mathcal{I}(\sigma):=\big|\{(i,j)|i,j\in [n], i<j,\sigma_{i}>\sigma_{j}\}\big|\]
+\\e, Legyen A $\in \mathbb{R}^{nxn}$, egy $\mathsf{n}$ $\mathsf{x}$ $\mathsf{n}$-es (négyzetes) valós mátrix: \[A= \left(
+\begin{matrix}
+a_{11} & a_{12} & ... & a_{1n} \\
+a_{21} & a_{22} & ... & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & a_{n2} & ... & a_{nn}
+\end{matrix}\right)\]
+\\Az A mátrix determinánsát a következőképpen definiáljuk: \[det(A)=\left|
+\begin{matrix}
+a_{11} & a_{12} & ... & a_{1n} \\
+a_{21} & a_{22} & ... & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & a_{n2} & ... & a_{nn}
+\end{matrix}\right|:=\sum_{\sigma\in S_n}(-1)^{\mathcal{I}(\sigma)}\prod_{i=1}^{n}\mathcal{a}_{i\sigma_i}\]
+\end{document}

@@ -1,0 +1,42 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{xcolor}
+
+\usepackage{hhline}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{subcaption}
+
+\begin{document}
+Tekintsük az \textit{L = {0,1}} halmazt, és rajta a következő, igazságtáblával definiált műveletek:
+\begin{table}[h!]
+\begin{subtable}{.5\linewidth}
+  \begin{center}
+    \begin{tabular}{l||c} 
+      $x$ & $\neg x$\\
+      \hline
+      0 & 1\\
+      1 & 0\\
+    \end{tabular}
+  \end{center}
+\end{subtable}
+\begin{subtable}{0.5\linewidth}
+  \begin{center}
+    \begin{tabular}{l||c|r|c|c|c|c}
+      $\mathit{x}$ $\mathit{y}$ & $\mathit{xVy}$ & $\mathit{x\land y}$ & $\mathit{x\rightarrow y}$\\
+      \hline
+      0 0 & 0 & 0 & 1\\ 
+      0 1 & 1 & 0 & 1\\
+      1 0 & 1 & 0 & 0\\
+      1 1 & 1 & 1 & 1\\
+    \end{tabular}
+  \end{center}
+\end{subtable}
+\end{table}
+\\A következő azonosságokat bizonyítás nélkül használjuk:\[\mathit{x}\rightarrow\mathit{y} =\neg\mathit{xVy}\]\[\neg(\mathit{xVy})=\neg\mathit{x}\land\neg\mathit{y}\qquad	\neg(\mathit{x}\land\mathit{y})=\neg\mathit{xV}\neg\mathit{y}\]
+\\A (\color{red}3\color{black}) bal oldala, (\color{red}4\color{black}) felhasználásával: \[(\mathit{a}qland\mathit{b}\land\mathit{c})\rightarrow\mathit{d} \underset{(\color{red}4a\color{black})}{=}(\neg(\mathit{a\land b\land c})\mathit{Vd}\underset{(\color{red}4b\color{black})}{=} (\neg\mathit{aV}\neg\mathit{bV}\neg\mathit{c})\mathit{Vd}\]. 
+\\A (\color{red}3\color{black}) jobb oldala, (\color{red}4a\color{black}) ismételt felhasználásával: \[a\rightarrow(b\rightarrow(c\rightarrow d)) = \neg a\mathit{V}(b\rightarrow(c\rightarrow d))\] \[= \neg a\mathit{V(\neg b\mathit{V}(c\rightarrow d))}\]  \[= \neg a\mathit{V}(\neg b\mathit{V}(\neg c\mathit{V}d))\]
+\end{document}
