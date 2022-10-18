@@ -1,0 +1,24 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{hulipsum}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{ifthen}
+
+\begin{document}
+
+\newcolumntype{A}{>{\ifthenelse{\isodd{rownum}}}{{\color{white}}{\color{black}}}c}
+
+\rowcolors{1}{black}{gray}
+\begin{tabular}{A|A|A|A}
+      0 & 0 & 0 & 1\\ 
+      0 & 1 & 0 & 1\\
+      1 & 1 & 0 & 0\\
+      1 & 1 & 1 & 1\\
+ \end{tabular}
+\end{document}

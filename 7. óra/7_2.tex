@@ -1,0 +1,21 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{hulipsum}
+\usepackage{xcolor}
+\usepackage{colortbl}
+
+\begin{document}
+\newenvironment{vonalzott}[1]
+{\vspace{1ex}\hrule\vspace{1ex}
+\begin{center}#1\end{center}}
+{\vspace{1ex}\hrule\vspace{1ex}}
+\parbox{0.8\linewidth}{
+\begin{vonalzott}{opcionális argumentuma}
+\hulipsum[1]
+\end{vonalzott}}
+\end{document}

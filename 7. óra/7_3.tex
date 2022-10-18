@@ -1,0 +1,25 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{hulipsum}
+\usepackage{xcolor}
+\usepackage{colortbl}
+
+\begin{document}
+\newcounter{index}
+\newcommand{\kgitem}{\stepcounter{index}\theindex}
+\newenvironment{vonalzott}[1]
+	{\vspace{1ex}\hrule\vspace{1ex}
+	\begin{center}#1\end{center}}
+	{\vspace{1ex}\hrule\vspace{1ex}}
+\begin{vonalzott}{cím}
+\fbox{\makebox[0.5cm]{\kgitem}}
+\hulipsum[1]
+\\\fbox{\makebox[0.5cm]{\kgitem}}
+\\\fbox{\makebox[0.5cm]{\kgitem}}
+\end{vonalzott}
+\end{document}
