@@ -1,0 +1,16 @@
+\beamer@sectionintoc {1}{dafaq}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{nincs itt semmi látnivaló}{3}{0}{1}
+\beamer@sectionintoc {2}{Az élet értelme}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{42}{3}{0}{2}
+\beamer@sectionintoc {3}{dafaq}{4}{0}{3}
+\beamer@subsectionintoc {3}{1}{nincs itt semmi látnivaló}{4}{0}{3}
+\beamer@sectionintoc {4}{Az élet értelme}{4}{0}{4}
+\beamer@subsectionintoc {4}{1}{42}{4}{0}{4}
+\beamer@sectionintoc {5}{dafaq}{5}{0}{5}
+\beamer@subsectionintoc {5}{1}{nincs itt semmi látnivaló}{5}{0}{5}
+\beamer@sectionintoc {6}{Az élet értelme}{5}{0}{6}
+\beamer@subsectionintoc {6}{1}{42}{5}{0}{6}
+\beamer@sectionintoc {7}{dafaq}{6}{0}{7}
+\beamer@subsectionintoc {7}{1}{nincs itt semmi látnivaló}{6}{0}{7}
+\beamer@sectionintoc {8}{Az élet értelme}{6}{0}{8}
+\beamer@subsectionintoc {8}{1}{42}{6}{0}{8}
