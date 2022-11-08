@@ -1,0 +1,81 @@
+\documentclass[11pt]{book}
+
+\usepackage[magyar]{babel}
+\usepackage{hulipsum}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{xcolor}
+\usepackage{listings}
+
+\title{Zárthelyi dolgozat\\ \small{A csoport}}
+\author{Vitkolczi Dániel(XPGMCH)}
+
+\newenvironment{vers}[2]{\begin{center}\textbf{#1}\\ \textit{#2}\\ \end{center}}{\vspace{2 pt}}
+
+\lstdefinestyle{mystyle}{tabsize=2, numbers=right, stepnumber=2, showspaces=true}
+\lstset{style=mystyle}
+
+\begin{document}
+%1. feladat
+\maketitle
+\pagestyle{fancy}
+\fancyhead[RO]{\thesection}
+\fancyhead[LE]{\thechapter}
+\fancyfoot[RO, LE]{\thepage}
+\fancyfoot[C]{}
+\chapter{}
+\section{szekció}
+\hulipsum[1-2]
+\section{szekció}
+\hulipsum[3-4]
+
+%2. feladat
+\newpage
+\chapter{}
+\begin{wrapfigure}{1}{0.25\textwidth}
+\centering
+\includegraphics[height=4cm, scale=0.5]{szines}
+\caption{perfect}
+\setlength{\fboxsep}{0pt}\fbox{\includegraphics[height=4cm]{szepia}}
+\caption{valami}
+\end{wrapfigure}
+\hulipsum[1-2]
+
+%3. feladat
+\newpage
+\chapter{}
+\textbf{1. Definició}
+(sajátérték). Legyen $A\in{\mathbb{R}}^{nxn}$ négyzetes mátrix. Azt mondjuk, hogy 
+$\lambda \in{\mathbb{C}}$ sajátérték és $v\in{\mathbb{C}^{n}}$ a $\lambda$ sajátértékéhez tartozó(jobb oldali) sajátvektora A-nak, ha \[Av = \lambda v\]
+\textbf{2. Definició} (Karakterisztikus polinom). Jelölje $E\in{\mathbb{R}}^{nxn}$ az egység mátrixot. Az $A$ ún. \textit{karakterisztikus polinomja}
+\[\varphi{(}\lambda{) := det(A}\color{red}{-}\lambda{E}\color{black}{) = }
+\begin{vmatrix}
+a_{11}\color{red}{-}\lambda\color{black} & a_{12} & \hdots & a_{1n} \\
+a_{21} & a_{22}\color{red}{-}\lambda\color{black} & \hdots & a_{2n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{n1} & a_{n2} & \hdots & a_{nn}\color{red}{-}\lambda
+\end{vmatrix}\]
+egy $n$-edikfokú polinom $\lambda$-ban.\\
+\textbf{1. Tétel} (sajátérték meghatározása). Az $A\in{\mathbb{R}^nxn}$ mátrix sajátértékei az ún. \textit{karakterisztikus egyenlet}
+\[\varphi{(}\lambda{) = 0}\]
+megoldásai. Mivel a $\varphi{(}\lambda{)}$ \textit{karakterisztikus polinom} egy $n$-edikfokú polinom $\lambda$-ban, ezért komnplex számokon (multiplicitással együtt) $n$ megoldása van.
+
+%4. feladat
+\newpage
+\chapter{}
+\hulipsum[1-2]
+\center Programkód 1. Bináris keresés C-ben
+\setlength{\fboxsep}{0pt}\fbox{\lstinputlisting[language=C]{binsearch_it.C}}
+
+%5. feladat
+\newpage
+\chapter{}
+\begin{vers}{Valami}{valaki}
+valami valami \\
+valami és vlaami \\
+köszönöm
+\end{vers}
+\end{document}
