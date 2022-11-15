@@ -1,0 +1,18 @@
+\documentclass{article}
+
+\usepackage[magyar]{babel}
+\usepackage{hulipsum}
+\usepackage{tikz}
+\usetikzlibrary{patterns}
+
+\begin{document}
+\tikz{
+\filldraw[draw=red,fill=yellow,opacity=0.5] (0,0) rectangle ++(2,2);
+\filldraw[draw=red,fill=green,opacity=0.5] (1,0) rectangle ++(2,2);
+\shade[shading=radial, outer color=black, inner color=white] (4,0) -- ++(1,0) -- ++(60:1) -- ++(120:1) -- ++(-1,0) -- ++(240:1) -- ++(300:1);
+\shade[top color=blue, bottom color=green, shading angle=30] (6.5,0) -- ++(1,0) -- ++(60:1) -- ++(120:1) -- ++(-1,0) -- ++(240:1) -- ++(300:1);
+\shade[shading=ball, ball color=gray] (9.5,1) circle (1);
+\fill[blue] (12.5,0) -- ++(1,1) -- ++(-1,1) -- ++(-1,-1) -- ++(1,-1);
+\pattern[pattern=fivepointed stars, pattern color=white] (12.5,0) -- ++(1,1) -- ++(-1,1) -- ++(-1,-1) -- ++(1,-1);
+}
+\end{document}
